@@ -110,9 +110,30 @@ table>tr>th*2
         <button type="submit"> enviar</button>
     </form>
 
-    <form action=""></form>
+   <!-- <form action=""></form> -->
+    <form action="http://localhost:3000/auth/login"
+        method="post"
+    >
+        <input type="text" name="username">
+        <input type="text" name="password">
+        <button>
+            se olvido de poner el tipo de boton
+        </button>
+        <button type="submit">
+            submit
+        </button>
+        <button>
 
-</table>
+        </button>
+    </form>
+
+    <h2>IFRAME</h2>
+    <iframe id="saew"
+            src="http:/saew"
+            frameborder="0"
+            width="600"
+            height="800"
+    ></iframe>
 
 <br>
 <br>
@@ -123,6 +144,14 @@ table>tr>th*2
 <br>
 <br>
 
+<script>
+    var etiquetaSaew =document.getElementById
+    ("saew");
+
+    etiquetaSaew.contentWindow.addEventListener("keypress", function (evento){
+        console.log(evento)
+    });
+</script>
 
 </body>
 
