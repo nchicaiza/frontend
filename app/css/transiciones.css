@@ -1,0 +1,69 @@
+
+.titulo{
+    font-size: 15px;
+    color: yellow;
+    background-color:black;
+    webkit-transition: background-color 2s;
+    transition: background-color 2s;
+    animation-name: colores;
+    animation-duration: 8s;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-timing-function: ease-out;
+
+
+
+    /*-webkit-transition: background-color 2s;
+    transition: background-color 2s;*/
+}
+
+/*.titulo:hover{
+
+    background-color: red;
+    color: white;
+    font-size: 25px;
+}*/
+
+@keyframes colores {
+    0% {
+        background-color: red;
+        color: brown;
+        font-size: 10px;
+    }
+
+    40% {
+        background-color: yellow;
+        color: green;
+        font-size: 20px;
+    }
+    50% {
+        background-color: blue;
+        color: red;
+        font-size: 25px;
+    }
+    75% {
+        background-color: green;
+        color: yellow;
+        font-size: 20px;
+    }
+    100% {
+        background-color: red;
+        color: blue;
+        font-size: 15px;
+    }
+
+}
+
+    .transicion-2p {
+        -ms-transform: translate(10px, 20px);
+        -webkit-transform: translate(10px, 20px);
+
+        transform: translate(10px, 30px) rotate(1deg) scale(2.5, 1.5) skew(55deg)
+    rotate3d(10,10,10, 30deg);
+    }
+
+
+
+
+

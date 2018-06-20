@@ -1,15 +1,44 @@
-.rojo{
-    color:red;
+.verde {
+    color: greenyellow;
 }
 
-.verde{
-    color:green;
+.rojo {
+    color: red;
 }
 
-.azul{
-    color:blue;
+.azul {
+    color: blue;
 }
 
-.azul-hover:hover{
+.azul-hover {
+    color: aqua;
+}
+
+.azul-hover:hover {
     color: green;
+    cursor: pointer;
+}
+
+.bg-azul{
+    background-color: blue;
+}
+
+.bg-amarillo{
+    background-color: yellow;
+}
+
+.bg-verde{
+    background-color: greenyellow;
+}
+
+.bg-rojo{
+    background-color: red;
+}
+
+.bg-negro{
+    background-color: black;
+}
+
+.bg-rosado{
+    background-color: palevioletred;
 }
