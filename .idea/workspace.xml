@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dce0f7d-1be1-426d-bd0a-b17fff4c6329" name="Default" comment="front end">
-      <change afterPath="$PROJECT_DIR$/app/css/transiciones.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/typescript-compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/css/hover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/imj/01.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/imj/02.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/imj/03.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/imj/04.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/imj/05.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/imj/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/javascript.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/js/funciones.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/responsive.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/css/colores.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/colores.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/estilos.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/estilos.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/estilos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/css/transiciones.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/css/transiciones.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,67 +30,62 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/estilos.css">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            <state relative-caret-position="137">
+              <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="estilos.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="estilos.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/estilos.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-415">
-              <caret line="18" column="86" lean-forward="true" selection-start-line="18" selection-start-column="86" selection-end-line="18" selection-end-column="86" />
+            <state relative-caret-position="443">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
               <folding>
-                <element signature="n#style#0;n#h1#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hover.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/hover.css">
+      <file leaf-file-name="responsive.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/responsive.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38255" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/animate.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-818" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="126" column="17" lean-forward="true" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+            <state relative-caret-position="392">
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="colores.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/colores.css">
+      <file leaf-file-name="javascript.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/javascript.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+            <state relative-caret-position="765">
+              <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="transiciones.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/css/transiciones.css">
+      <file leaf-file-name="funciones.ts" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/js/funciones.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="366">
+              <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="funciones.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/funciones.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="01.PNG" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/imj/01.PNG">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -88,8 +93,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -101,9 +107,15 @@
       <list>
         <option value="$PROJECT_DIR$/app/index.html" />
         <option value="$PROJECT_DIR$/app/css/estilos.css" />
-        <option value="$PROJECT_DIR$/app/css/colores.css" />
         <option value="$PROJECT_DIR$/app/estilos.html" />
+        <option value="$PROJECT_DIR$/app/css/colores.css" />
+        <option value="$PROJECT_DIR$/app/css/animate.css" />
+        <option value="$PROJECT_DIR$/app/css/hover.css" />
         <option value="$PROJECT_DIR$/app/css/transiciones.css" />
+        <option value="$PROJECT_DIR$/app/resonsive.html" />
+        <option value="$PROJECT_DIR$/app/responsive.html" />
+        <option value="$PROJECT_DIR$/app/javascript.html" />
+        <option value="$PROJECT_DIR$/app/js/funciones.ts" />
       </list>
     </option>
   </component>
@@ -116,11 +128,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="487" />
-    <option name="y" value="105" />
-    <option name="width" value="1482" />
-    <option name="height" value="1180" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="392" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -140,12 +151,6 @@
               <item name="frontend" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="frontend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="frontend" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -161,7 +166,14 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.1.5\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\nelson\Documents\GitHub\frontend\app\imj" />
+      <recent name="C:\Users\nelson\Documents\GitHub\frontend\app\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,38 +201,44 @@
       <workItem from="1529330706450" duration="6269000" />
       <workItem from="1529510254356" duration="584000" />
       <workItem from="1529511019387" duration="6074000" />
+      <workItem from="1529891487957" duration="7983000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15150000" />
+    <option name="totallyTimeSpent" value="23133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="487" y="105" width="1482" height="1180" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49896264" visible="true" weight="0.18893388" />
+      <window_info anchor="bottom" id="TypeScript" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49896264" visible="true" weight="0.12445095" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290938" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.11211573" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.16534181" />
       <window_info id="Favorites" order="2" sideWeight="0.50103736" side_tool="true" weight="0.18893388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.3290938" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3290938" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/js/funciones.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -231,6 +249,44 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2142">
+          <caret line="126" column="17" lean-forward="true" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/colores.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/transiciones.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/estilos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="86" lean-forward="true" selection-start-line="18" selection-start-column="86" selection-end-line="18" selection-end-column="86" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/estilos.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/estilos.html">
@@ -238,7 +294,6 @@
         <state relative-caret-position="300">
           <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
-            <element signature="n#style#0;n#h1#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
@@ -265,54 +320,113 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="126" column="17" lean-forward="true" selection-start-line="126" selection-start-column="17" selection-end-line="126" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/css/animate.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-818" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/colores.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="1" lean-forward="true" selection-start-line="43" selection-start-column="1" selection-end-line="43" selection-end-column="1" />
+        <state relative-caret-position="646">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/hover.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38255" />
+        <state relative-caret-position="137">
+          <caret line="2533" column="40" selection-start-line="2533" selection-start-column="40" selection-end-line="2533" selection-end-column="40" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/estilos.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        <state relative-caret-position="77">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/css/transiciones.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="50">
+          <caret line="45" selection-start-line="44" selection-start-column="4" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/imagenes web/02.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/imagenes web/05.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/imagenes web/04.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/imagenes web/03.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/imagenes web/01.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imj/2">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imj/3">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imj/4">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imj/5">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imj/1">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/imj/01.PNG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/estilos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-415">
-          <caret line="18" column="86" lean-forward="true" selection-start-line="18" selection-start-column="86" selection-end-line="18" selection-end-column="86" />
+        <state relative-caret-position="443">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
           <folding>
-            <element signature="n#style#0;n#h1#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/responsive.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="7" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/funciones.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="89" column="1" selection-start-line="89" selection-start-column="1" selection-end-line="89" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/funciones.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

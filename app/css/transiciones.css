@@ -3,8 +3,6 @@
     font-size: 15px;
     color: yellow;
     background-color:black;
-    webkit-transition: background-color 2s;
-    transition: background-color 2s;
     animation-name: colores;
     animation-duration: 8s;
     animation-delay: 2s;
@@ -56,11 +54,14 @@
 }
 
     .transicion-2p {
-        -ms-transform: translate(10px, 20px);
-        -webkit-transform: translate(10px, 20px);
+        -ms-transform: translate(10px, 20px); /* IE 9*/
+        -webkit-transform: translate(10px, 20px); /* SAFARI */
 
-        transform: translate(10px, 30px) rotate(1deg) scale(2.5, 1.5) skew(55deg)
-    rotate3d(10,10,10, 30deg);
+        transform: translate(10px, 30px)
+        rotate(-5deg)
+        scale(2.5, 1.5)
+        skew(44deg)
+        rotate3d(3,3,3, 6deg);
     }
 
 
